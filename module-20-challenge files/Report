@@ -1,0 +1,12 @@
+FINAL ANALYSIS
+
+In this analysis, we aimed to evaluate machine learning models for predicting the health of loans (class 0 or class 1). The dataset contained financial information, and our focus was on assessing accuracy, precision, and recall.
+
+Following exploratory data analysis, preprocessing, and model training using algorithms like Logistic Regression, we obtained results for each model:
+
+* **Machine Learning Model 1:**
+  - Precision: 86%
+  - Recall: 91%
+  - Overall accuracy: 88%
+
+Based on the evaluation, the logistic regression model stands out, considering the higher measures of accuracy and balanced precision and recall. The choice of the optimal model depends on the specific problem, with consideration for priorities such as predicting high-risk loans (`1`) or healthy loans (`0`).
